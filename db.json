@@ -2,14 +2,7 @@
   "liked":[
     {
       "id" : 0,
-      "value" : 1
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "value" : 21
     }
   ]
 }
